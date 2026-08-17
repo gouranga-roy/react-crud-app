@@ -1,3 +1,23 @@
 {
-  "products": []
+  "products": [
+    {
+      "name": "Maile Serrano",
+      "category": "Recusandae Duis ut ",
+      "price": 745,
+      "quantity": 687,
+      "description": "Voluptates et sunt i",
+      "status": "active",
+      "id": "BRMr5-wcYxg"
+    },
+    {
+      "name": "Gouranga Roy",
+      "category": "Deserunt ea quia qui",
+      "price": 29156,
+      "quantity": 785,
+      "description": "Quia sint consequatu",
+      "status": "inactive",
+      "id": "a9-4UyfHwRs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
